@@ -1,7 +1,7 @@
 {
   "description": "Scheduler bitcode",
-  "name": "pablohpsilvascheduler",
+  "name": "scheduler",
   "path": "index.js",
-  "version": "1.0.0",
-  "author": "pablo henrique"
+  "version": "0.1.2",
+  "author": "Cleverson Puche"
 }
