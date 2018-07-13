@@ -5,7 +5,7 @@
 
 var Timer = Java.type('java.util.Timer')
 var TimerTask = Java.type('java.util.TimerTask')
-w
+
 var Executors = Java.type('java.util.concurrent.Executors')
 var LocalDateTime = Java.type('java.time.LocalDateTime')
 var LocalTime = Java.type('java.time.LocalTime')
